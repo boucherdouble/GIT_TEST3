@@ -1,1 +1,3 @@
 petit test
+
+<button><a href="https://google.com" targert="blank">lien Google</a><button></button>
